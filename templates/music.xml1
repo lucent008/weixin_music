@@ -1,0 +1,12 @@
+<xml>
+<ToUserName><![CDATA[{{fromuser}}]]></ToUserName>
+<FromUserName><![CDATA[{{touser}}]]></FromUserName>
+<CreateTime>{{time}}</CreateTime>
+<MsgType><![CDATA[music]]></MsgType>
+<Music>
+<Title><![CDATA[{{music_Title}}]]></Title>
+<Description><![CDATA[{{music_Desc}}]]></Description>
+<MusicUrl><![CDATA[{{music_Url}}]]></MusicUrl>
+<HQMusicUrl><![CDATA[{{music_Url}}]]></HQMusicUrl>
+</Music>
+</xml>
